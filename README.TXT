@@ -1,10 +1,11 @@
 PROJECT TITLE: Text Clustering - School Descriptions
 
-PURPOSE OF PROJECT: The goal of this project is to cluster the descriptions of Siena's courses. 
+PURPOSE OF PROJECT: The goal of this project is to cluster the descriptions of Siena College's courses. 
 
 VERSION or DATE: April 27, 20222
 
 AUTHORS: Nour Mihamou
+
 
 USER INSTRUCTIONS: 
 The first step will be vectorizing the text appropriately. Set max_df parameter of vectorizer to eliminate extremely common words (e.g. "course").
